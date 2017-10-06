@@ -136,7 +136,7 @@ o mesmo acontece no trabalho. ao invés de focar 100%, pensa em outras coisas
 
 ---
 
-![original](https://www.dropbox.com/s/n321os2wa2ra2tg/how-to-google.mp4?dl=1)
+![Video](https://www.dropbox.com/s/n321os2wa2ra2tg/how-to-google.mp4)
 
 ---
 
@@ -202,7 +202,7 @@ o mesmo acontece no trabalho. ao invés de focar 100%, pensa em outras coisas
 
 ---
 
-![inline](https://www.dropbox.com/s/creeflqhxkrmgzk/ruby-style-guide.mp4?dl=1)
+![Video](https://www.dropbox.com/s/creeflqhxkrmgzk/ruby-style-guide.mp4)
 
 ---
 
@@ -212,13 +212,13 @@ o mesmo acontece no trabalho. ao invés de focar 100%, pensa em outras coisas
 
 # Sublime para substituição de texto
 
-![inline 100%](https://www.dropbox.com/s/tdpie8g9k01hdeo/replace1.mp4?dl=1)
+![video](https://www.dropbox.com/s/tdpie8g9k01hdeo/replace1.mp4)
 
 ---
 
 # Sublime para substituição de texto
 
-![inline 100%](https://www.dropbox.com/s/2yax4rd6lwlzfln/replace2.mp4?dl=1)
+![video](https://www.dropbox.com/s/2yax4rd6lwlzfln/replace2.mp4)
 
 ---
 
